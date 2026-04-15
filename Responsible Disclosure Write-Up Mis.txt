@@ -60,3 +60,5 @@ It reminded me that being effective in this field is not just about spotting tec
 Note
 
 This write-up has been anonymised. No patient information, screenshots, or identifying details of the organisation have been included in this public version.
+
+The practice later confirmed that the issue was caused by incorrect phone numbers recorded on two patient records, and that it would be corrected. This clarified that the incident stemmed from data accuracy and record management rather than a broader technical compromise.
