@@ -1,0 +1,62 @@
+Responsible Disclosure Write-Up: Misdirected Appointment Messages
+Overview
+
+This was a small but meaningful real-world data protection incident that highlighted the importance of accurate data handling and responsible reporting.
+
+I began receiving appointment text messages intended for other patients from a dental practice. These messages were being sent to my mobile number in error and contained personal information, including patient names and appointment dates and times.
+
+Why This Mattered
+
+Although the information disclosed was limited, it was still personal data and had been sent to the wrong recipient. From a cyber security and privacy perspective, this raised concerns around:
+
+incorrect handling of personal information,
+poor record accuracy or messaging configuration,
+unnecessary disclosure of identifiable appointment details,
+and the wider issue of trust in organisations handling sensitive data.
+
+This situation reinforced that cyber security is not only about attacks and vulnerabilities. It also includes privacy, governance, and how organisations manage everyday information securely.
+
+My Response
+
+I chose to handle the issue responsibly and professionally.
+
+I first contacted the dental practice directly by phone rather than escalating the issue immediately. During the call, I explained that I had received messages intended for other patients and that I was raising the matter as a data protection concern. I also explained that, because cyber security is an area I specialise in, I felt it was important to report the issue properly rather than ignore it.
+
+The head dental nurse provided the practice email address and advised that the matter would be forwarded to the practice manager.
+
+I then prepared a formal written report to the practice. In doing so, I:
+
+described the issue clearly and factually,
+attached a redacted screenshot as evidence,
+withheld patient names from the screenshot to avoid further unnecessary disclosure,
+retained the original messages in case they were needed for investigation,
+and requested confirmation that my number would be removed from any incorrect record or messaging system.
+Security and Privacy Considerations
+
+A key part of this response was balancing evidence with data minimisation.
+
+Even though I had screenshots of the original messages, I chose to redact patient names before sending an example to the practice. This was done to demonstrate the issue without spreading personal data any further than necessary. The unredacted originals were kept securely in case the practice required them through an appropriate channel.
+
+This was a useful reminder that handling incidents ethically is just as important as identifying them.
+
+Key Lessons Learned
+
+This incident gave me practical exposure to a real-world privacy issue and reinforced several important principles:
+
+Not all cyber security issues are highly technical.
+Sometimes the biggest risks come from simple administrative or process failures.
+Responsible disclosure matters.
+Reporting an issue calmly, clearly, and through the correct route is often the best first step.
+Data minimisation should still apply when reporting a problem.
+Evidence should support the report without creating further unnecessary exposure.
+Trust is a major part of security.
+When organisations handle personal data incorrectly, even in a small way, it can undermine confidence.
+Reflection
+
+This was a straightforward incident, but it was a strong real-world example of why cyber security, privacy, and professionalism all connect.
+
+It reminded me that being effective in this field is not just about spotting technical problems. It is also about judgement, ethics, communication, and protecting people when something goes wrong.
+
+Note
+
+This write-up has been anonymised. No patient information, screenshots, or identifying details of the organisation have been included in this public version.
